@@ -76,7 +76,7 @@ Run all notebook cells from top to bottom.
 # Results
 
 ## Performance Comparison
-![Executive Dashboard](./Executive%20Dashboardd.png)
+![PnL Distribution](./PnL%20Distribution.png)
 
 ### Average Profitability
 
@@ -90,7 +90,7 @@ Greed periods generated approximately 76% higher profitability than Fear periods
 ---
 
 ### Win Rate
-![Executive Dashboard](./Executive%20Dashboardd.png)
+![Win Rate](./Win%20Rate.png)
 
 | Sentiment | Win Rate |
 | --------- | -------: |
@@ -99,6 +99,20 @@ Greed periods generated approximately 76% higher profitability than Fear periods
 
 Win rates improved during Greed periods.
 
+### Drawdown
+![Drawdown](./Drawdown.png)
+
+### Trade Frequency
+![Trade Frequency](./Trade%20Frequency.png)
+
+### Position Size
+![Position Size](./Position%20Size.png)
+
+### Leverage
+![Leverage](./Leverage.png)
+
+### Sentiment Stats
+![Sentiment Stats](./Sentiment%20Stats.png)
 ---
 
 ### Statistical Test
@@ -165,3 +179,16 @@ Random Forest Classifier
 ## Conclusion
 
 The model achieved approximately 68% accuracy, suggesting that market sentiment and trader behavior contain useful predictive information regarding future trade profitability.
+
+
+---
+
+# Project Report
+
+A detailed one-page report containing methodology, key insights, strategy recommendations, and predictive modeling results is available below:
+
+📄 **Project Report**
+
+[Trader_Behavior_vs_Market_Sentiment_Analysis.pdf](Trader_Behavior_vs_Market_Sentiment_Analysis.pdf)
+
+---

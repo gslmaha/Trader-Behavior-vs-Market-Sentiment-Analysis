@@ -176,13 +176,11 @@ Random Forest Classifier
 | Precision |   63% |
 | Recall    |   55% |
 
-## Conclusion
 
 The model achieved approximately 68% accuracy, suggesting that market sentiment and trader behavior contain useful predictive information regarding future trade profitability.
 
 
 ---
-
 # Project Report
 
 A detailed one-page report containing methodology, key insights, strategy recommendations, and predictive modeling results is available below:

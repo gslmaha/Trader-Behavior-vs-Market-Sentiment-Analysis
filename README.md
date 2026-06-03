@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Trader-Behavior-vs-Market-Sentiment-Analysis.git
+git clone https://github.com/<gslmaha>/Trader-Behavior-vs-Market-Sentiment-Analysis.git
 ```
 
 ## Step 2
@@ -190,5 +190,10 @@ A detailed one-page report containing methodology, key insights, strategy recomm
 📄 **Project Report**
 
 [Trader_Behavior_vs_Market_Sentiment_Analysis.pdf](Trader_Behavior_vs_Market_Sentiment_Analysis.pdf)
+
+👤 Author
+
+G S L Maha
+🔗 LinkedIn: https://www.linkedin.com/in/gslmaha
 
 ---
